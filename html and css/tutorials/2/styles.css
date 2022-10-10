@@ -1,0 +1,28 @@
+body {
+    background: rgba(0, 255, 128, 0.74);
+}
+
+header{
+    background: rgba(0, 255, 64, 0.756);
+    padding: 20px;
+    height: 400px;
+    text-align: center;
+}
+
+header strong {
+    color: rgb(4, 0, 255);
+    font-size: larger;
+    text-align: center;
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+}
